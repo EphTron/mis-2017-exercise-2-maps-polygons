@@ -32,12 +32,13 @@
 
     <Button
         android:id="@+id/clear_markers"
-        android:text="Delete Markers"
+        android:text="Clear Map"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="11dp"
         android:layout_alignParentBottom="true"
-        android:layout_alignEnd="@+id/marker_text"
-        android:layout_marginBottom="12dp" />
+        android:layout_toEndOf="@+id/polygon_button"
+        android:layout_marginStart="13dp" />
 
     <Button
         android:id="@+id/polygon_button"

@@ -6,5 +6,7 @@
     <string name="marker_text_hint">Enter your marker name...</string>
     <string name="marker_storage">marker_locations</string>
     <string name="cleared_markers">Cleared all markers.</string>
-    <string name="not_enough_markers">Not enough markers..</string>
+    <string name="not_enough_markers">Not enough markers.</string>
+    <string name="no_location">You couldnt be located</string>
+    <string name="title_activity_second">SecondActivity</string>
 </resources>
